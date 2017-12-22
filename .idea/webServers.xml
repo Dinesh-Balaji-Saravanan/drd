@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3d3a9293-636e-4316-9b8c-8c7ad35f3413" name="drd" url="http://localhost/drd">
+        <fileTransfer port="0" mountedRoot="E:\xampp\htdocs\drd" accessType="MOUNT" />
+      </webServer>
+      <webServer id="73f41297-af35-43ba-b90a-432b80c16aad" name="000webhost" url="http://dealrajadeal.000webhost.com/">
+        <fileTransfer host="files.000webhost.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
